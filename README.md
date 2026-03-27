@@ -12,5 +12,5 @@ This project analyses retail sales data to identify trends and relationships bet
 - Explore relationship between sales and profit
 - Identify top-performing categories
 
-  ## Status
-  In progress
+## Status
+In progress
